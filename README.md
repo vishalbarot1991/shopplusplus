@@ -24,8 +24,9 @@ MERN stack.Please follow the instructions to set it up.
 >    link paypal with braintree for payment through paypal account 
 > 3. copy MONGO_URL,JWT_SECRET form monogodb database and paste in  .env file of server folder
 > 4. copy this link REACT_APP_API= http://localhost:8080 paste  in .env file of app folder
-> 4. From the server folder run ``npm run dev``
->
+> 5. From the server folder run ``npm run dev``
+> 6. To check Admin functionality admin email vishal.barot2111@gmail.com password 7567331888
+     and to check user functionality email user@gmail.com password 7567331880
 > **Running a  bash script**
  ```sh
 cd ./App
